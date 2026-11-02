@@ -56,14 +56,13 @@ The system works through the following steps:
 
 The model processes live webcam input and identifies humans and supported animals in the camera feed.
 
-"Live Webcam Detection" (IMG_20260907_120557.jpg)
+"Live Webcam Detection" (./IMG_20260907_120557.jpg)
 
 2. Uploaded Image Detection
 
-The model also detects objects from uploaded images and displays the prediction results with bounding boxes and confidence scores.
+The model detects objects from uploaded images and displays prediction results with bounding boxes and confidence scores.
 
-"Uploaded Image Detection" (IMG_20260907_122102.jpg)
-
+"Uploaded Image Detection" (./IMG_20260907_122102.jpg)
 🧪 Testing and Results
 
 The model was tested using two approaches:
