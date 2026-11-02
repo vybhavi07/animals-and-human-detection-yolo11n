@@ -50,21 +50,19 @@ The system works through the following steps:
 5. Prediction: The model generates class labels, confidence scores, and bounding boxes.
 6. Output Display: The detected objects are displayed with their respective bounding boxes.
 
-📸 Project Demonstration
+## 📸 Project Demonstration
 
-1. Live Webcam Detection
+### 1. Live Webcam Detection
 
 The model processes live webcam input and identifies humans and supported animals in the camera feed.
 
-"Live Webcam Detection" (./IMG_20260907_120557.jpg)
+![Live Webcam Detection](https://raw.githubusercontent.com/vybhavi07/animals-and-human-detection-yolo11n/main/IMG_20260907_120557.jpg)
 
-2. Uploaded Image Detection
+### 2. Uploaded Image Detection
 
 The model detects objects from uploaded images and displays prediction results with bounding boxes and confidence scores.
 
-"Uploaded Image Detection" (./IMG_20260907_122102.jpg)
-🧪 Testing and Results
-
+![Uploaded Image Detection](https://raw.githubusercontent.com/vybhavi07/animals-and-human-detection-yolo11n/main/IMG_20260907_122102.jpg)
 The model was tested using two approaches:
 
 1. Real-Time Webcam Testing
